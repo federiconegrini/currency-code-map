@@ -105,7 +105,6 @@ module.exports = {
   LYD: 'LY',      
   CHF: 'LI',      
   LTL: 'LT',      
-  HKD: 'MO',      
   MKD: 'MK',      
   MGA: 'MG',      
   MWK: 'MW',      
